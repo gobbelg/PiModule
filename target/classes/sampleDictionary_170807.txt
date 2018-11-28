@@ -1,0 +1,189 @@
+promoter	contrastexposure	non-contrast	5	5
+promoter	contrastexposure	noncontrast	5	5
+promoter	contrastexposure	without contrast	5	5
+promoter	contrastexposure	non-con	5	5
+promoter	contrastexposure	noncon	5	5
+promoter	contrastexposure	non - con	5	5
+promoter	contrastexposure	w / pe	5	5
+promoter	contrastexposure	w/pe	5	5
+promoter	contrastexposure	pe protocol	5	5
+promoter	contrastexposure	contrast	5	5
+promoter	contrastexposure	contr	5	5
+inhibitor	potentialcontrastexposure	non-contrast	5	5
+inhibitor	potentialcontrastexposure	noncontrast	5	5
+inhibitor	potentialcontrastexposure	without contrast	5	5
+inhibitor	potentialcontrastexposure	non-con	5	5
+inhibitor	potentialcontrastexposure	noncon	5	5
+inhibitor	potentialcontrastexposure	non - con	5	5
+inhibitor	potentialcontrastexposure	w / pe	5	5
+inhibitor	potentialcontrastexposure	w/pe	5	5
+inhibitor	potentialcontrastexposure	pe protocol	5	5
+inhibitor	potentialcontrastexposure	contrast	5	5
+inhibitor	potentialcontrastexposure	surgery	0	1
+inhibitor	potentialcontrastexposure	contr	8	8
+conceptphrase	potentialcontrastexposure	CT		
+conceptphrase	potentialcontrastexposure	aortofemoral bypass		
+conceptphrase	potentialcontrastexposure	aortofem bypass		
+conceptphrase	potentialcontrastexposure	aortifem bypass		
+conceptphrase	potentialcontrastexposure	aortifemoral bypass		
+conceptphrase	potentialcontrastexposure	aortobifemoral bypass		
+conceptphrase	potentialcontrastexposure	aortobifem bypass		
+conceptphrase	potentialcontrastexposure	aortibifem bypass		
+conceptphrase	potentialcontrastexposure	icd shock		
+conceptphrase	potentialcontrastexposure	icd shocks		
+conceptphrase	potentialcontrastexposure	icd interrogation		
+conceptphrase	potentialcontrastexposure	icd placement		
+conceptphrase	potentialcontrastexposure	place an icd		
+conceptphrase	potentialcontrastexposure	placement of icd		
+conceptphrase	potentialcontrastexposure	icd implantation		
+conceptphrase	potentialcontrastexposure	icd interrogated		
+conceptphrase	potentialcontrastexposure	interrogated icd		
+conceptphrase	potentialcontrastexposure	biv icd		
+conceptphrase	potentialcontrastexposure	biventricular icd		
+conceptphrase	potentialcontrastexposure	bi-v icd		
+conceptphrase	potentialcontrastexposure	icd replacement		
+conceptphrase	potentialcontrastexposure	replacement of icd		
+conceptphrase	potentialcontrastexposure	replaced icd		
+conceptphrase	potentialcontrastexposure	replace icd		
+conceptphrase	potentialcontrastexposure	icd firing		
+conceptphrase	potentialcontrastexposure	firing of icd		
+conceptphrase	potentialcontrastexposure	icd in place		
+conceptphrase	contrastexposure	CT		
+conceptphrase	contrastexposure	aortofemoral bypass		
+conceptphrase	contrastexposure	aortofem bypass		
+conceptphrase	contrastexposure	aortifem bypass		
+conceptphrase	contrastexposure	aortifemoral bypass		
+conceptphrase	contrastexposure	aortobifemoral bypass		
+conceptphrase	contrastexposure	aortobifem bypass		
+conceptphrase	contrastexposure	aortibifem bypass		
+conceptphrase	contrastexposure	icd shock		
+conceptphrase	contrastexposure	icd shocks		
+conceptphrase	contrastexposure	icd interrogation		
+conceptphrase	contrastexposure	icd placement		
+conceptphrase	contrastexposure	place an icd		
+conceptphrase	contrastexposure	placement of icd		
+conceptphrase	contrastexposure	icd implantation		
+conceptphrase	contrastexposure	icd interrogated		
+conceptphrase	contrastexposure	interrogated icd		
+conceptphrase	contrastexposure	biv icd		
+conceptphrase	contrastexposure	biventricular icd		
+conceptphrase	contrastexposure	bi-v icd		
+conceptphrase	contrastexposure	icd replacement		
+conceptphrase	contrastexposure	replacement of icd		
+conceptphrase	contrastexposure	replaced icd		
+conceptphrase	contrastexposure	replace icd		
+conceptphrase	contrastexposure	icd firing		
+conceptphrase	contrastexposure	firing of icd		
+conceptphrase	contrastexposure	icd in place		
+conceptphrase	intake	appetite		
+conceptphrase	intake	anorexia		
+conceptphrase	intake	appetite change		
+conceptphrase	intake	appetite : good		
+conceptphrase	intake	appetite : poor		
+conceptphrase	intake	appetite : increased		
+conceptphrase	intake	appetite is increased		
+conceptphrase	intake	appetite is decreased		
+conceptphrase	intake	appetite is good		
+conceptphrase	intake	appetite is poor		
+conceptphrase	intake	increased appetite		
+conceptphrase	intake	decreased appetite		
+conceptphrase	intake	increase in appetite		
+conceptphrase	intake	good appetite		
+conceptphrase	intake	clear liquid		
+conceptphrase	intake	clear liquids		
+conceptphrase	intake	eating decreased		
+conceptphrase	intake	eating increased		
+conceptphrase	intake	decreased eating		
+conceptphrase	intake	increased eating		
+conceptphrase	intake	increased intake		
+conceptphrase	intake	decreased intake		
+conceptphrase	intake	intake increased		
+conceptphrase	intake	intake decreased		
+conceptphrase	intake	appetite normal		
+conceptphrase	intake	normal appetite		
+conceptphrase	intake	good appetite		
+conceptphrase	intake	normal intake		
+conceptphrase	intake	appetite increasing		
+conceptphrase	intake	appetite decreasing		
+conceptphrase	intake	increasing appetite		
+conceptphrase	intake	decreasing appetite		
+conceptphrase	intake	intake increasing		
+conceptphrase	intake	intake decreasing		
+conceptphrase	intake	increasing intake		
+conceptphrase	intake	decreasing intake		
+conceptphrase	intake	anorexia		
+conceptphrase	intake	appetite changing		
+conceptphrase	intake	changing appetite		
+conceptphrase	intake	appetite changed		
+conceptphrase	intake	changes in appetite		
+conceptphrase	intake	eating improved		
+conceptphrase	intake	appetite improved		
+conceptphrase	intake	appetite is improved		
+conceptphrase	intake	eating is improved		
+conceptphrase	intake	fasting		
+conceptphrase	intake	restrict fluids		
+conceptphrase	intake	restrict fluid		
+conceptphrase	intake	fluid restriction		
+conceptphrase	intake	fluid restricted		
+conceptphrase	intake	fluids restricted		
+conceptphrase	intake	water restricted		
+conceptphrase	intake	water restrictions		
+conceptphrase	intake	restriction of water		
+conceptphrase	intake	restrict water		
+conceptphrase	intake	reduced water intake		
+conceptphrase	intake	decreased water intake		
+conceptphrase	intake	water intake reduced		
+conceptphrase	intake	water intake decreased		
+conceptphrase	intake	eating		
+conceptphrase	intake	eats		
+conceptphrase	intake	ate		
+conceptphrase	intake	eaten		
+conceptphrase	intake	difficulty eating		
+conceptphrase	intake	eating difficulty		
+conceptphrase	intake	npo		
+conceptphrase	intake	n.p.o.		
+conceptphrase	intake	n . p . o . 		
+conceptphrase	intake	fasted		
+conceptphrase	intake	eating better		
+conceptphrase	intake	appetite picking up		
+conceptphrase	intake	eating picking up		
+conceptphrase	intake	intake picking up		
+conceptphrase	intake	feeding		
+conceptphrase	anatomicalkidneystatus	cyst	TRUE	TRUE
+conceptphrase	anatomicalkidneystatus	cystic	TRUE	TRUE
+conceptphrase	anatomicalkidneystatus	cysts	TRUE	TRUE
+conceptphrase	anatomicalkidneystatus	calculus	TRUE	TRUE
+conceptphrase	anatomicalkidneystatus	calculi	TRUE	TRUE
+conceptphrase	anatomicalkidneystatus	mass	TRUE	FALSE
+conceptphrase	anatomicalkidneystatus	cancer	TRUE	FALSE
+conceptphrase	anatomicalkidneystatus	agenesis	FALSE	FALSE
+conceptphrase	anatomicalkidneystatus	dysgenesis	FALSE	FALSE
+conceptphrase	anatomicalkidneystatus	carcinoma	TRUE	TRUE
+conceptphrase	anatomicalkidneystatus	atrophy	TRUE	FALSE
+conceptphrase	anatomicalkidneystatus	atrophic	TRUE	FALSE
+conceptphrase	anatomicalkidneystatus	cancer	TRUE	TRUE
+conceptphrase	anatomicalkidneystatus	mass	TRUE	TRUE
+conceptphrase	anatomicalkidneystatus	stone	FALSE	TRUE
+conceptphrase	anatomicalkidneystatus	masses	TRUE	TRUE
+conceptphrase	anatomicalkidneystatus	stones	FALSE	TRUE
+conceptphrase	anatomicalkidneystatus	tumor	TRUE	TRUE
+conceptphrase	anatomicalkidneystatus	tumors	TRUE	TRUE
+conceptphrase	anatomicalkidneystatus	atrophic	TRUE	FALSE
+promoter	anatomicalkidneystatus	kidney		
+promoter	anatomicalkidneystatus	renal		
+inhibitor	anatomicalkidneystatus	ovary		
+inhibitor	anatomicalkidneystatus	ovaries		
+inhibitor	anatomicalkidneystatus	heart		
+inhibitor	anatomicalkidneystatus	lung		
+inhibitor	anatomicalkidneystatus	lungs		
+inhibitor	anatomicalkidneystatus	colon		
+inhibitor	anatomicalkidneystatus	bowel		
+inhibitor	anatomicalkidneystatus	intestine		
+inhibitor	anatomicalkidneystatus	bladder		
+inhibitor	anatomicalkidneystatus	liver		
+inhibitor	anatomicalkidneystatus	pancreas		
+inhibitor	anatomicalkidneystatus	pancreatic		
+inhibitor	anatomicalkidneystatus	hepatic		
+inhibitor	anatomicalkidneystatus	urinary		
+inhibitor	anatomicalkidneystatus	intestinal		
+inhibitor	anatomicalkidneystatus	cardiac		

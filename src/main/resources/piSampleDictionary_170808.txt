@@ -1,0 +1,293 @@
+PhraseType	ApplicableConcept	Phrase	FowardWindow / RequiresPromotion	BackWindow/Inhibitable	ConceptPhrase Overrides Raptat Assigned	Comment
+inhibitor	kidneystatus	bladder	5	6		"Only tag stones, cysts, masses, etc if close to a term like kidney, renal, etc but not another organ"
+inhibitor	kidneystatus	bowel	5	6		"Only tag stones, cysts, masses, etc if close to a term like kidney, renal, etc but not another organ"
+inhibitor	kidneystatus	cardiac	5	6		"Only tag stones, cysts, masses, etc if close to a term like kidney, renal, etc but not another organ"
+inhibitor	kidneystatus	colon	5	6		"Only tag stones, cysts, masses, etc if close to a term like kidney, renal, etc but not another organ"
+inhibitor	kidneystatus	heart	5	6		"Only tag stones, cysts, masses, etc if close to a term like kidney, renal, etc but not another organ"
+inhibitor	kidneystatus	hepatic	5	6		"Only tag stones, cysts, masses, etc if close to a term like kidney, renal, etc but not another organ"
+inhibitor	kidneystatus	intestinal	5	6		"Only tag stones, cysts, masses, etc if close to a term like kidney, renal, etc but not another organ"
+inhibitor	kidneystatus	intestine	5	6		"Only tag stones, cysts, masses, etc if close to a term like kidney, renal, etc but not another organ"
+inhibitor	kidneystatus	liver	5	6		"Only tag stones, cysts, masses, etc if close to a term like kidney, renal, etc but not another organ"
+inhibitor	kidneystatus	lung	5	6		"Only tag stones, cysts, masses, etc if close to a term like kidney, renal, etc but not another organ"
+inhibitor	kidneystatus	lungs	5	6		"Only tag stones, cysts, masses, etc if close to a term like kidney, renal, etc but not another organ"
+inhibitor	kidneystatus	ovaries	5	6		"Only tag stones, cysts, masses, etc if close to a term like kidney, renal, etc but not another organ"
+inhibitor	kidneystatus	ovary	5	6		"Only tag stones, cysts, masses, etc if close to a term like kidney, renal, etc but not another organ"
+inhibitor	kidneystatus	pancreas	5	6		"Only tag stones, cysts, masses, etc if close to a term like kidney, renal, etc but not another organ"
+inhibitor	kidneystatus	pancreatic	5	6		"Only tag stones, cysts, masses, etc if close to a term like kidney, renal, etc but not another organ"
+inhibitor	kidneystatus	urinary	5	6		"Only tag stones, cysts, masses, etc if close to a term like kidney, renal, etc but not another organ"
+conceptphrase	kidneystatus	agenesis	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	atrophic	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	atrophic	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	atrophy	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	calculi	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	calculus	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	cancer	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	carcinoma	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	cyst	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	cystic	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	cysts	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	dysgenesis	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	hematoma	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	mass	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	mass	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	masses	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	nephrectomized	FALSE	FALSE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	nephrectomy	FALSE	FALSE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	stone	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	stones	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	stones	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	tumor	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+conceptphrase	kidneystatus	tumors	TRUE	TRUE	TRUE	"Can be blocked, requires facilitation, and overrides any statistically assigned concept"
+promoter	kidneystatus	kidney	5	6		Variant of 'kidney'
+promoter	kidneystatus	kidneys	5	6		Variant of 'kidney'
+promoter	kidneystatus	renal	5	6		Variant of 'kidney'
+inhibitor	contrastexposure	chest	10	11		
+inhibitor	contrastexposure	lung	10	11		
+inhibitor	contrastexposure	lungs	10	11		
+inhibitor	contrastexposure	pulm	10	11		
+inhibitor	contrastexposure	pulmonary	10	11		
+inhibitor	contrastexposure	resp	10	11		
+inhibitor	contrastexposure	respiratory	10	11		
+conceptphrase	contrastexposure	angiography	FALSE	FALSE	FALSE	
+conceptphrase	contrastexposure	aortibifem bypass	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	aortifem bypass	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	aortifemoral bypass	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	aortobifem bypass	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	aortobifemoral bypass	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	aortofem bypass	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	aortofemoral bypass	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	bi-v icd	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	biv icd	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	biventricular icd	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	catheterization	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	catheterizations	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	ct	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	cta	FALSE	TRUE	FALSE	
+conceptphrase	contrastexposure	firing of icd	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	icd firing	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	icd implantation	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	icd in place	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	icd interrogated	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	icd interrogation	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	icd placement	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	icd replacement	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	icd shock	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	icd shocks	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	interrogated icd	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	place an icd	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	placement of icd	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	replace icd	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	replaced icd	TRUE	TRUE	FALSE	
+conceptphrase	contrastexposure	replacement of icd	TRUE	TRUE	FALSE	
+promoter	contrastexposure	contr	5	6		
+promoter	contrastexposure	contrast	5	6		
+promoter	contrastexposure	coronaries	15	16		
+promoter	contrastexposure	coronary	15	16		
+promoter	contrastexposure	lad	15	16		
+promoter	contrastexposure	non - con	5	6		
+promoter	contrastexposure	non-con	5	6		
+promoter	contrastexposure	non-contrast	5	6		
+promoter	contrastexposure	noncon	5	6		
+promoter	contrastexposure	noncontrast	5	6		
+promoter	contrastexposure	pe	15	16		
+promoter	contrastexposure	pe protocol	5	6		
+promoter	contrastexposure	w / pe	5	6		
+promoter	contrastexposure	w/pe	5	6		
+promoter	contrastexposure	without contrast	5	6		
+conceptphrase	intake	anorexia	FALSE	FALSE	FALSE	
+conceptphrase	intake	appetite	FALSE	FALSE	FALSE	
+conceptphrase	intake	appetite : good	FALSE	FALSE	FALSE	
+conceptphrase	intake	appetite : increased	FALSE	FALSE	FALSE	
+conceptphrase	intake	appetite : poor	FALSE	FALSE	FALSE	
+conceptphrase	intake	appetite change	FALSE	FALSE	FALSE	
+conceptphrase	intake	appetite changed	FALSE	FALSE	FALSE	
+conceptphrase	intake	appetite changing	FALSE	FALSE	FALSE	
+conceptphrase	intake	appetite decreasing	FALSE	FALSE	FALSE	
+conceptphrase	intake	appetite improved	FALSE	FALSE	FALSE	
+conceptphrase	intake	appetite increasing	FALSE	FALSE	FALSE	
+conceptphrase	intake	appetite is decreased	FALSE	FALSE	FALSE	
+conceptphrase	intake	appetite is good	FALSE	FALSE	FALSE	
+conceptphrase	intake	appetite is improved	FALSE	FALSE	FALSE	
+conceptphrase	intake	appetite is increased	FALSE	FALSE	FALSE	
+conceptphrase	intake	appetite is poor	FALSE	FALSE	FALSE	
+conceptphrase	intake	appetite normal	FALSE	FALSE	FALSE	
+conceptphrase	intake	appetite picking up	FALSE	FALSE	FALSE	
+conceptphrase	intake	ate	FALSE	FALSE	FALSE	
+conceptphrase	intake	changes in appetite	FALSE	FALSE	FALSE	
+conceptphrase	intake	changing appetite	FALSE	FALSE	FALSE	
+conceptphrase	intake	clear liquid	FALSE	FALSE	FALSE	
+conceptphrase	intake	clear liquids	FALSE	FALSE	FALSE	
+conceptphrase	intake	decreased appetite	FALSE	FALSE	FALSE	
+conceptphrase	intake	decreased eating	FALSE	FALSE	FALSE	
+conceptphrase	intake	decreased intake	FALSE	FALSE	FALSE	
+conceptphrase	intake	decreased water intake	FALSE	FALSE	FALSE	
+conceptphrase	intake	decreasing appetite	FALSE	FALSE	FALSE	
+conceptphrase	intake	decreasing intake	FALSE	FALSE	FALSE	
+conceptphrase	intake	difficulty eating	FALSE	FALSE	FALSE	
+conceptphrase	intake	eaten	FALSE	FALSE	FALSE	
+conceptphrase	intake	eating better	FALSE	FALSE	FALSE	
+conceptphrase	intake	eating decreased	FALSE	FALSE	FALSE	
+conceptphrase	intake	eating difficulty	FALSE	FALSE	FALSE	
+conceptphrase	intake	eating improved	FALSE	FALSE	FALSE	
+conceptphrase	intake	eating increased	FALSE	FALSE	FALSE	
+conceptphrase	intake	eating is improved	FALSE	FALSE	FALSE	
+conceptphrase	intake	eating picking up	FALSE	FALSE	FALSE	
+conceptphrase	intake	fasted	FALSE	FALSE	FALSE	
+conceptphrase	intake	fasting	FALSE	FALSE	FALSE	
+conceptphrase	intake	feeding	FALSE	FALSE	FALSE	
+conceptphrase	intake	fluid I . V . 	FALSE	FALSE	FALSE	
+conceptphrase	intake	fluid intravenous	FALSE	FALSE	FALSE	
+conceptphrase	intake	fluid intravenously	FALSE	FALSE	FALSE	
+conceptphrase	intake	fluid iv	FALSE	FALSE	FALSE	
+conceptphrase	intake	fluid restricted	FALSE	FALSE	FALSE	
+conceptphrase	intake	fluid restriction	FALSE	FALSE	FALSE	
+conceptphrase	intake	fluids I . V . 	FALSE	FALSE	FALSE	
+conceptphrase	intake	fluids intravenous	FALSE	FALSE	FALSE	
+conceptphrase	intake	fluids intravenously	FALSE	FALSE	FALSE	
+conceptphrase	intake	fluids iv	FALSE	FALSE	FALSE	
+conceptphrase	intake	fluids restricted	FALSE	FALSE	FALSE	
+conceptphrase	intake	good appetite	FALSE	FALSE	FALSE	
+conceptphrase	intake	good appetite	FALSE	FALSE	FALSE	
+conceptphrase	intake	I . V. fluid	FALSE	FALSE	FALSE	
+conceptphrase	intake	I . V. fluids	FALSE	FALSE	FALSE	
+conceptphrase	intake	increase in appetite	FALSE	FALSE	FALSE	
+conceptphrase	intake	increased appetite	FALSE	FALSE	FALSE	
+conceptphrase	intake	increased eating	FALSE	FALSE	FALSE	
+conceptphrase	intake	increased intake	FALSE	FALSE	FALSE	
+conceptphrase	intake	increasing appetite	FALSE	FALSE	FALSE	
+conceptphrase	intake	increasing intake	FALSE	FALSE	FALSE	
+conceptphrase	intake	intake decreased	FALSE	FALSE	FALSE	
+conceptphrase	intake	intake decreasing	FALSE	FALSE	FALSE	
+conceptphrase	intake	intake increased	FALSE	FALSE	FALSE	
+conceptphrase	intake	intake increasing	FALSE	FALSE	FALSE	
+conceptphrase	intake	intake picking up	FALSE	FALSE	FALSE	
+conceptphrase	intake	intravenous fluid	FALSE	FALSE	FALSE	
+conceptphrase	intake	intravenous fluids	FALSE	FALSE	FALSE	
+conceptphrase	intake	iv fluid	FALSE	FALSE	FALSE	
+conceptphrase	intake	iv fluids	FALSE	FALSE	FALSE	
+conceptphrase	intake	n . p . o . 	FALSE	FALSE	FALSE	
+conceptphrase	intake	n.p.o.	FALSE	FALSE	FALSE	
+conceptphrase	intake	normal appetite	FALSE	FALSE	FALSE	
+conceptphrase	intake	normal intake	FALSE	FALSE	FALSE	
+conceptphrase	intake	npo	FALSE	FALSE	FALSE	
+conceptphrase	intake	reduced water intake	FALSE	FALSE	FALSE	
+conceptphrase	intake	restrict fluid	FALSE	FALSE	FALSE	
+conceptphrase	intake	restrict fluids	FALSE	FALSE	FALSE	
+conceptphrase	intake	restrict water	FALSE	FALSE	FALSE	
+conceptphrase	intake	restriction of water	FALSE	FALSE	FALSE	
+conceptphrase	intake	water intake decreased	FALSE	FALSE	FALSE	
+conceptphrase	intake	water intake reduced	FALSE	FALSE	FALSE	
+conceptphrase	intake	water restricted	FALSE	FALSE	FALSE	
+conceptphrase	intake	water restrictions	FALSE	FALSE	FALSE	
+inhibitor	nephrologycaredelivery	depression	20	21		
+inhibitor	nephrologycaredelivery	ekg	20	21		
+inhibitor	nephrologycaredelivery	ekgs	20	21		
+inhibitor	nephrologycaredelivery	elevation	20	21		
+inhibitor	nephrologycaredelivery	ii	20	21		
+inhibitor	nephrologycaredelivery	iii	20	21		
+inhibitor	nephrologycaredelivery	inversion	20	21		
+inhibitor	nephrologycaredelivery	lead	20	21		
+inhibitor	nephrologycaredelivery	leads	20	21		
+inhibitor	nephrologycaredelivery	nsr	20	21		
+inhibitor	nephrologycaredelivery	pvc	20	21		
+inhibitor	nephrologycaredelivery	pvcs	20	21		
+inhibitor	nephrologycaredelivery	segment	20	21		
+inhibitor	nephrologycaredelivery	st	20	21		
+inhibitor	nephrologycaredelivery	t	20	21		
+inhibitor	nephrologycaredelivery	twave	20	21		
+inhibitor	nephrologycaredelivery	vf	20	21		
+inhibitor	nephrologycaredelivery	voltage	20	21		
+conceptphrase	nephrologycaredelivery	avf	FALSE	TRUE	FALSE	arteriovenous fistula (need to block against Avf ekg lead)
+conceptphrase	nephrologycaredelivery	nephrology	FALSE	FALSE	TRUE	
+conceptphrase	nephrologycaredelivery	renal	TRUE	FALSE	TRUE	needs promoter to distinguish from renal disease or anatomical change
+promoter	nephrologycaredelivery	biopsy	1	2		
+promoter	nephrologycaredelivery	clinic	1	2		
+promoter	nephrologycaredelivery	consult	1	2		
+promoter	nephrologycaredelivery	consultation	1	2		
+promoter	nephrologycaredelivery	doctor	1	2		
+promoter	nephrologycaredelivery	doctors	1	2		
+promoter	nephrologycaredelivery	fellow	1	2		
+promoter	nephrologycaredelivery	fellows	1	2		
+promoter	nephrologycaredelivery	service	1	2		
+inhibitor	potentialcontrastexposure	-	1	2		Often precedes or follows 'icd' when referring to icd codes
+inhibitor	potentialcontrastexposure	(	0	1		Often precedes 'icd' when referring to icd code
+inhibitor	potentialcontrastexposure	contr	8	9		
+inhibitor	potentialcontrastexposure	contrast	5	6		
+inhibitor	potentialcontrastexposure	non - con	5	6		
+inhibitor	potentialcontrastexposure	non-con	5	6		
+inhibitor	potentialcontrastexposure	non-contrast	5	6		
+inhibitor	potentialcontrastexposure	noncon	5	6		
+inhibitor	potentialcontrastexposure	noncontrast	5	6		
+inhibitor	potentialcontrastexposure	pe protocol	5	6		
+inhibitor	potentialcontrastexposure	surgery	0	1		
+inhibitor	potentialcontrastexposure	w / pe	5	6		
+inhibitor	potentialcontrastexposure	w/pe	5	6		
+inhibitor	potentialcontrastexposure	without contrast	5	6		
+conceptphrase	potentialcontrastexposure	aortibifem bypass	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	aortifem bypass	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	aortifemoral bypass	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	aortobifem bypass	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	aortobifemoral bypass	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	aortofem bypass	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	aortofemoral bypass	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	bi-v icd	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	biv icd	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	biventricular icd	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	ct	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	firing of icd	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	icd	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	icd firing	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	icd implantation	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	icd in place	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	icd interrogated	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	icd interrogation	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	icd placement	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	icd replacement	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	icd shock	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	icd shocks	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	interrogated icd	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	place an icd	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	placement of icd	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	replace icd	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	replaced icd	FALSE	TRUE	FALSE	
+conceptphrase	potentialcontrastexposure	replacement of icd	FALSE	TRUE	FALSE	
+conceptphrase	renalfunctionimpairment	crf	FALSE	FALSE	FALSE	
+conceptphrase	weightchange	cachectic	FALSE	FALSE	TRUE	
+conceptphrase	weightchange	cachexia	FALSE	FALSE	TRUE	
+conceptphrase	weightchange	lb	TRUE	FALSE	FALSE	
+conceptphrase	weightchange	lb .	TRUE	FALSE	FALSE	
+conceptphrase	weightchange	lbs	TRUE	FALSE	FALSE	
+conceptphrase	weightchange	lbs .	TRUE	FALSE	FALSE	
+conceptphrase	weightchange	pound	TRUE	FALSE	FALSE	
+conceptphrase	weightchange	pounds	TRUE	FALSE	FALSE	
+conceptphrase	weightchange	weight	TRUE	FALSE	FALSE	
+conceptphrase	weightchange	wt	TRUE	FALSE	FALSE	
+conceptphrase	weightchange	wt .	TRUE	FALSE	FALSE	
+promoter	weightchange	changed	5	3		
+promoter	weightchange	changing	5	3		
+promoter	weightchange	decrease	5	3		
+promoter	weightchange	decreased	5	3		
+promoter	weightchange	down	5	3		
+promoter	weightchange	gain	5	3		
+promoter	weightchange	gained	5	3		
+promoter	weightchange	gaining	5	3		
+promoter	weightchange	higher	5	3		
+promoter	weightchange	improved	5	3		
+promoter	weightchange	improving	5	3		
+promoter	weightchange	increase	5	3		
+promoter	weightchange	increased	5	3		
+promoter	weightchange	increasing	5	3		
+promoter	weightchange	less	5	3		
+promoter	weightchange	lose	5	3		
+promoter	weightchange	losing	5	3		
+promoter	weightchange	loss	5	3		
+promoter	weightchange	lost	5	3		
+promoter	weightchange	lower	5	3		
+promoter	weightchange	more	5	3		
+promoter	weightchange	reduced	5	3		
+promoter	weightchange	reducing	5	3		
+promoter	weightchange	reduction	5	3		
+promoter	weightchange	regained	5	3		
+promoter	weightchange	stable	5	3		
+promoter	weightchange	unchanged	5	3		
+promoter	weightchange	up	5	3		

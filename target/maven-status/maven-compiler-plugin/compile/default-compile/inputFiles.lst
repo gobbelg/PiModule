@@ -1,0 +1,16 @@
+/Users/glenn/SubversionMatheny/branches/GlennWorkspace/Projects/PiModuleMaven/PiModule/src/main/java/gov/va/tvhs/grecc/PiModule/logic/LogicAnalyzer.java
+/Users/glenn/SubversionMatheny/branches/GlennWorkspace/Projects/PiModuleMaven/PiModule/src/main/java/gov/va/tvhs/grecc/PiModule/datastructure/HashTree.java
+/Users/glenn/SubversionMatheny/branches/GlennWorkspace/Projects/PiModuleMaven/PiModule/src/main/java/gov/va/tvhs/grecc/PiModule/phrasecontext/PhraseMapper.java
+/Users/glenn/SubversionMatheny/branches/GlennWorkspace/Projects/PiModuleMaven/PiModule/src/main/java/gov/va/tvhs/grecc/PiModule/core/PiMaker.java
+/Users/glenn/SubversionMatheny/branches/GlennWorkspace/Projects/PiModuleMaven/PiModule/src/main/java/gov/va/tvhs/grecc/PiModule/logic/BackwardLogicAnalyzer.java
+/Users/glenn/SubversionMatheny/branches/GlennWorkspace/Projects/PiModuleMaven/PiModule/src/main/java/gov/va/tvhs/grecc/PiModule/phrasecontext/MappingModifierPhrase.java
+/Users/glenn/SubversionMatheny/branches/GlennWorkspace/Projects/PiModuleMaven/PiModule/src/main/java/gov/va/tvhs/grecc/PiModule/phrasecontext/MappedPhrase.java
+/Users/glenn/SubversionMatheny/branches/GlennWorkspace/Projects/PiModuleMaven/PiModule/src/main/java/gov/va/tvhs/grecc/PiModule/logic/TokenMarker.java
+/Users/glenn/SubversionMatheny/branches/GlennWorkspace/Projects/PiModuleMaven/PiModule/src/main/java/gov/va/tvhs/grecc/PiModule/phrasecontext/PhraseType.java
+/Users/glenn/SubversionMatheny/branches/GlennWorkspace/Projects/PiModuleMaven/PiModule/src/main/java/gov/va/tvhs/grecc/PiModule/logic/ForwardLogicAnalyzer.java
+/Users/glenn/SubversionMatheny/branches/GlennWorkspace/Projects/PiModuleMaven/PiModule/src/main/java/gov/va/tvhs/grecc/PiModule/datastructure/IterableHashTree.java
+/Users/glenn/SubversionMatheny/branches/GlennWorkspace/Projects/PiModuleMaven/PiModule/src/main/java/gov/va/tvhs/grecc/PiModule/core/TokenStringTag.java
+/Users/glenn/SubversionMatheny/branches/GlennWorkspace/Projects/PiModuleMaven/PiModule/src/main/java/gov/va/tvhs/grecc/PiModule/core/TokenContextAnalyzer.java
+/Users/glenn/SubversionMatheny/branches/GlennWorkspace/Projects/PiModuleMaven/PiModule/src/main/java/gov/va/tvhs/grecc/PiModule/datastructure/PhraseTree.java
+/Users/glenn/SubversionMatheny/branches/GlennWorkspace/Projects/PiModuleMaven/PiModule/src/main/java/gov/va/tvhs/grecc/PiModule/core/Constants.java
+/Users/glenn/SubversionMatheny/branches/GlennWorkspace/Projects/PiModuleMaven/PiModule/src/main/java/gov/va/tvhs/grecc/PiModule/datastructure/Pair.java
