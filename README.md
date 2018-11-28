@@ -1,6 +1,6 @@
 # PiModule
 
-The PiModule is a tool to label concepts based on a tab-delimited lexicon specifying phrases of interest for labeling as well as phrases that can promote or inhibit that labeling.  The tool has been tested within Eclipse (version Photon) and includes an example lexicon that will be used by default.
+This tool labels text-based concepts using a tab-delimited lexicon.  The file corresponding to the lexicon specifies both phrases of interest for labeling and phrases that can promote or inhibit that labeling.  The tool has been tested within Eclipse (version Photon) and includes an example lexicon that will be used by default.
 
 To run the tool:
 1.  Import the downloaded project folder into Eclipse (Menu: 'File' > 'Open Projects from File System ...').
